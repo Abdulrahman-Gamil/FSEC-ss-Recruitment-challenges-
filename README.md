@@ -9,7 +9,8 @@ As an APU student studying **CS**, **Cybersecurity**, or a similar field, I have
 
 ## OSINT Challenge
 
-![WhatsApp Image 2025-01-08 at 07 39 30_4fd194b6](https://github.com/user-attachments/assets/0fe69b95-28db-417a-9662-98f13313d451)
+![WhatsApp Image 2025-01-08 at 07 39 30_4fd194b6](https://github.com/user-attachments/assets/2e4fb030-000c-44a6-aa30-20467bdbebdf)
+
 
 
 ### Title: Hacker's Cookies  
